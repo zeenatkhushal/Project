@@ -51,7 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\KeywordScript1.cs" />
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\QuitApplication.cs" />
      <Compile Include="Assets\QuitScript.cs" />

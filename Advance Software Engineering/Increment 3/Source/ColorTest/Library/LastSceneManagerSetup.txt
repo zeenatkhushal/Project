@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/spheretest.unity
+- path: Assets/Table and chair/Demo scene.unity
   isLoaded: 1
   isActive: 1
